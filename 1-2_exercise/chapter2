@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<html>
+ <head>
+	<mete charset="UTF-8">
+    <title>２章演習</title>
+ </head>
+ <body>
+	<h1>サービス紹介</h1>
+	<h2>webcamp</h2>
+	<P>マンツーマンサーポートによる学習で、確実にWebスキルを習得できるプログラミングスクールです。</P>
+	<a href="https://web-camp.io/">wabサイト</a>
+	<h2>webcamp pro</h2>
+	<p>未経験から転職を保証する日本で唯一のプログラミングスクールです。</p>
+	<a href="https://web-camp.io/pro/">wabサイト</a>
+	<h2>webcamp woman</h2>
+	<p>家庭も仕事も頑張りたい主婦・ママ向けの、1ヶ月でWebサイトを制作するWebデザイナースクールです。</p>
+	<a href="https://web-camp.io/woman/">>webサイト</a>
+	<h2>webcamp career</h2>
+	<p>3000名のエンジニアをサポートしティタエージェントがあなたの転職をサポート。</p>
+	<a href="https://web-camp.io/support/">webサイト</a>
+ </body>
+</html>
