@@ -62,5 +62,13 @@ main{
 }
 
 .box{
-	float: none;
+	margin: 0 5%;
+    loat: none;
+	width: 90%;
+	margin-bottom: 20px;
+
+}
+
+.box:last-child{
+	margin-bottom: 0px;
 }
